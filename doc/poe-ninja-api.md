@@ -2,27 +2,27 @@
 
 | Category | API |
 | -------- | --- |
-| Currency | https://poe.ninja/api/data/currencyoverview?league=Blight&type=Currency |
-| Fragment | https://poe.ninja/api/data/currencyoverview?league=Blight&type=Fragment |
-| Oils | https://poe.ninja/api/data/itemoverview?league=Blight&type=Oil |
-| Incubators | https://poe.ninja/api/data/itemoverview?league=Blight&type=Incubator |
-| Scarabs | https://poe.ninja/api/data/itemoverview?league=Blight&type=Scarab |
-| Fossils | https://poe.ninja/api/data/itemoverview?league=Blight&type=Fossil |
-| Resonators | https://poe.ninja/api/data/itemoverview?league=Blight&type=Resonator |
-| Essence | https://poe.ninja/api/data/itemoverview?league=Blight&type=Essence |
-| Divination Cards | https://poe.ninja/api/data/itemoverview?league=Blight&type=DivinationCard |
-| Prophecies | https://poe.ninja/api/data/itemoverview?league=Blight&type=Prophecy |
-| Skill Gems | https://poe.ninja/api/data/itemoverview?league=Blight&type=SkillGem |
-| Base Types | https://poe.ninja/api/data/itemoverview?league=Blight&type=BaseType |
-| Helmet Enchants | https://poe.ninja/api/data/itemoverview?league=Blight&type=HelmetEnchant |
-| Unique Maps | https://poe.ninja/api/data/itemoverview?league=Blight&type=UniqueMap |
+| Currency | https://poe.ninja/api/data/currencyoverview?league=Delirium&type=Currency |
+| Fragment | https://poe.ninja/api/data/currencyoverview?league=Delirium&type=Fragment |
+| Oils | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Oil |
+| Incubators | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Incubator |
+| Scarabs | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Scarab |
+| Fossils | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Fossil |
+| Resonators | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Resonator |
+| Essence | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Essence |
+| Divination Cards | https://poe.ninja/api/data/itemoverview?league=Delirium&type=DivinationCard |
+| Prophecies | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Prophecy |
+| Skill Gems | https://poe.ninja/api/data/itemoverview?league=Delirium&type=SkillGem |
+| Base Types | https://poe.ninja/api/data/itemoverview?league=Delirium&type=BaseType |
+| Helmet Enchants | https://poe.ninja/api/data/itemoverview?league=Delirium&type=HelmetEnchant |
+| Unique Maps | https://poe.ninja/api/data/itemoverview?league=Delirium&type=UniqueMap |
 | Maps | https://poe.ninja/api/data/itemoverview?type=Map&league=Standard |
-| Unique Jewels | https://poe.ninja/api/data/itemoverview?league=Blight&type=UniqueJewel |
-| Unique Flasks | https://poe.ninja/api/data/itemoverview?league=Blight&type=UniqueFlask |
-| Unique Weapons | https://poe.ninja/api/data/itemoverview?league=Blight&type=UniqueWeapon |
-| Unique Armours | https://poe.ninja/api/data/itemoverview?league=Blight&type=UniqueArmour |
-| Unique Accessories | https://poe.ninja/api/data/itemoverview?league=Blight&type=UniqueAccessory |
-| Beasts | https://poe.ninja/api/data/itemoverview?league=Blight&type=Beast |
+| Unique Jewels | https://poe.ninja/api/data/itemoverview?league=Delirium&type=UniqueJewel |
+| Unique Flasks | https://poe.ninja/api/data/itemoverview?league=Delirium&type=UniqueFlask |
+| Unique Weapons | https://poe.ninja/api/data/itemoverview?league=Delirium&type=UniqueWeapon |
+| Unique Armours | https://poe.ninja/api/data/itemoverview?league=Delirium&type=UniqueArmour |
+| Unique Accessories | https://poe.ninja/api/data/itemoverview?league=Delirium&type=UniqueAccessory |
+| Beasts | https://poe.ninja/api/data/itemoverview?league=Delirium&type=Beast |
 
 There are 2 categories:
 - currencyoverview
